@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MainActivity</string>
+	<string name="text_view_string1">text_view1</string>
+	<string name="text_view_string2">text_view2</string>
+	<string name="text_view_string3">text_view3</string>
+	<string name="text_view_string4">text_view4</string>
+	<string name="button">button</string>
+</resources>
