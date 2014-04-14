@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="app_name">MainActivity</string>
+    <string name="hello_world">Hello_world</string>
+    <strirng name="button_text">Button</string>
+  
+</resources>

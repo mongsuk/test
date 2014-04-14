@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ScrollView</string>
+	<string name="text_view_string1">text_view_string1</string>
+	<string name="text_view_string2">text_view_string2</string>
+	<string name="text_view_string3">text_view_string3</string>
+</resources>
