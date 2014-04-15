@@ -1,2 +1,2 @@
-/home/mong87suk/android_test/TestBasicWidget/bin/AndroidManifest.xml : \
-/home/mong87suk/android_test/TestBasicWidget/AndroidManifest.xml \
+/home/hjeong/test/TestBasicWidget/bin/AndroidManifest.xml : \
+/home/hjeong/test/TestBasicWidget/AndroidManifest.xml \

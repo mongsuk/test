@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">TestBasicWidget</string>
+	<string name="test_button">Test_button</string>
+	<string name="self_destruct">Self_destruct</string>
 </resources>

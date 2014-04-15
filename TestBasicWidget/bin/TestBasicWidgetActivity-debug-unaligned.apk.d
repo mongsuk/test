@@ -1,3 +1,3 @@
-/home/mong87suk/android_test/TestBasicWidget/bin/TestBasicWidgetActivity-debug-unaligned.apk : \
-/home/mong87suk/android_test/TestBasicWidget/bin/TestBasicWidgetActivity.ap_ \
-/home/mong87suk/android_test/TestBasicWidget/bin/classes.dex \
+/home/hjeong/test/TestBasicWidget/bin/TestBasicWidgetActivity-debug-unaligned.apk : \
+/home/hjeong/test/TestBasicWidget/bin/TestBasicWidgetActivity.ap_ \
+/home/hjeong/test/TestBasicWidget/bin/classes.dex \
